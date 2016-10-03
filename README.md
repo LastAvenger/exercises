@@ -1,2 +1,4 @@
-# exercises
-好好学习，提高码力~ 像 cuihao 同志看齐！
+Exercises
+=========
+
+好好学习，提高码力~ 向 cuihao 同志看齐！
